@@ -8,7 +8,7 @@
  ![MIT](https://img.shields.io/badge/MIT-License-brightgreen)
 
 # Description:  
- This project was created to have quick access to a professional README template using Node JS, so the user can easily answer the pre-generated questions and have them display nicely in a professional README format. This template includes a Title section, Description section, optional Table of Contents (this includes a contributing, installation, usage, and license sections), Test Instruction section, Questions section, a differenet colored badge that is displayed at the top based on the license you choose, and a license description. This README was created through Node JS, and uses javascript as well for certain functions. This is created to make an easier user experience. 
+ This project was created to have quick access to a professional README template using Node JS, so the user can easily answer the pre-generated questions and have them display nicely in a professional README format. This template includes a Title section, Description section, optional Table of Contents (this includes a contributing, installation, usage, and license sections), Test Instruction section, Questions section, a differenet colored badge that is displayed at the top based on the license you choose, and a license description. This README was created through Node JS, and uses javascript as well for certain functions. This is created to make an easier user experience. When the user goes to their terminal and is in the correct folder, then the user is prompted with questions that will make up their README. Then, when the user answers all the questions, they will be presented with a message "Your README has been written!". Then, the user will have a functional README that has working links, the correct badge displayed to go with the license, and their information to their Github and email.
 
 ## Table of Contents:  
  
@@ -22,7 +22,7 @@
 
   
 ## Test Instructions: 
- This is testing the simplicity of making a README file using Node JS.  
+ This is testing the simplicity of making a README file using Node JS, to create an easier and faster user experience. 
   
 ## Questions: 
 
