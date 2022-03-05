@@ -45,3 +45,13 @@ mariapaterno7@gmail.com
  MIT 
 
  The primary terms and conditions of the MIT license are to grant permissions and indemnify developers for future use. Specifically, it grants any person who obtains a copy of the software and associated files the right to use, copy, modify, merge, distribute, publish, sublicense, and sell copies of the software.
+
+### Link to my screencastify video:
+ https://drive.google.com/file/d/16nla93uQZjnaUNWxT-iz2GAGStvYh8wk/view
+
+ ### Github link:
+https://github.com/Paterma/Professional-README-Generator
+
+ ### Screenshot of sample README:
+
+![README Screenshot](/Develop/Screenshot-README.PNG)
